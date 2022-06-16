@@ -15,3 +15,6 @@ dotnet ef database drop
 
 donnet new -l
 dotnet new gitignore
+
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
